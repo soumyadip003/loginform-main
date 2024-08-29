@@ -9,15 +9,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/10.13.0/fireba
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyBBXnvWYQrM2F342u54TFLK-bRz7KEPK-M",
-  authDomain: "login-form-edafc.firebaseapp.com",
-  projectId: "login-form-edafc",
-  storageBucket: "login-form-edafc.appspot.com",
-  messagingSenderId: "48913914678",
-  appId: "1:48913914678:web:3dee94484a2d9de9337197"
-};
+// Your web app's Firebase configuratio
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
